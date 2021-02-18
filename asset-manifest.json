@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.87290159.chunk.css",
-    "main.js": "/website/static/js/main.8884a56e.chunk.js",
-    "main.js.map": "/website/static/js/main.8884a56e.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.01cc2acc.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.01cc2acc.js.map",
-    "static/js/2.70b12bff.chunk.js": "/website/static/js/2.70b12bff.chunk.js",
-    "static/js/2.70b12bff.chunk.js.map": "/website/static/js/2.70b12bff.chunk.js.map",
-    "static/js/3.81f2efd0.chunk.js": "/website/static/js/3.81f2efd0.chunk.js",
-    "static/js/3.81f2efd0.chunk.js.map": "/website/static/js/3.81f2efd0.chunk.js.map",
+    "main.css": "/website/static/css/main.6f92473f.chunk.css",
+    "main.js": "/website/static/js/main.941662f3.chunk.js",
+    "main.js.map": "/website/static/js/main.941662f3.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.75b8a220.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.75b8a220.js.map",
+    "static/js/2.5fa4fc64.chunk.js": "/website/static/js/2.5fa4fc64.chunk.js",
+    "static/js/2.5fa4fc64.chunk.js.map": "/website/static/js/2.5fa4fc64.chunk.js.map",
+    "static/js/3.1f90aae2.chunk.js": "/website/static/js/3.1f90aae2.chunk.js",
+    "static/js/3.1f90aae2.chunk.js.map": "/website/static/js/3.1f90aae2.chunk.js.map",
     "index.html": "/website/index.html",
-    "static/css/main.87290159.chunk.css.map": "/website/static/css/main.87290159.chunk.css.map",
-    "static/js/2.70b12bff.chunk.js.LICENSE.txt": "/website/static/js/2.70b12bff.chunk.js.LICENSE.txt",
-    "static/media/github-logo.jpeg": "/website/static/media/github-logo.1c58b476.jpeg"
+    "static/css/main.6f92473f.chunk.css.map": "/website/static/css/main.6f92473f.chunk.css.map",
+    "static/js/2.5fa4fc64.chunk.js.LICENSE.txt": "/website/static/js/2.5fa4fc64.chunk.js.LICENSE.txt",
+    "static/media/github-512.0918886c.webp": "/website/static/media/github-512.0918886c.webp",
+    "static/media/linkedin.0fdb1fe5.webp": "/website/static/media/linkedin.0fdb1fe5.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.01cc2acc.js",
-    "static/js/2.70b12bff.chunk.js",
-    "static/css/main.87290159.chunk.css",
-    "static/js/main.8884a56e.chunk.js"
+    "static/js/runtime-main.75b8a220.js",
+    "static/js/2.5fa4fc64.chunk.js",
+    "static/css/main.6f92473f.chunk.css",
+    "static/js/main.941662f3.chunk.js"
   ]
 }
